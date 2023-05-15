@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\workspace\backend"/>
 			<item value="C:\workspace\catalogo-filmes"/>
 		</list>
 		<list key="projectNameTemplate">
